@@ -26,4 +26,10 @@ Overall cycles or trends identified, together with each one's 'period':
 
   At the police district level, information can be gleaned that could be useful to each individual district. Streets and crime types, for instance.  Too many permutations to be mentioned here.
 
-  And finally, hypothesis testing was employed to validate 2 common heuristics.  Indeed, "when it gets hot, people get shot" tests valid! But when "the full moon comes out, so do the crazies" proved itself bunk.
+  And finally, hypothesis testing was employed to validate 2 common heuristics.  Indeed, "when it gets hot, people get shot" tests TRUE! But when "the full moon comes out, so do the crazies" proved itself bunk.
+
+
+  ## Notebooks
+
+  ---
+  [Analysis: Day of Week including Friday/Saturday/Sunday Groupings](code/analysis_1_day_of_week_especially_fri_sat_sun.ipynb)
