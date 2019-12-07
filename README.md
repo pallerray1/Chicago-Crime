@@ -38,7 +38,7 @@ There are many potential end users.
   Officer deployment (subject to any instituted constraints)
 
 Of deployments grandiose and more modest:
-  Instead of an immediate grand proposal that would be difficult to implement (money, manpower, and inertia), a modest proposal to get initiative rolling and be useful could be as follows:  no large scale equipment purchases needed, use the existing radio;  have an auto-generated one or two sentence statement generated for each shift for each district that auto-calculates a net plus or minus crime day based upon all the cycles present on any given day, supplement streets or blocks or crime types that are relevant to a given district; and robo-speech generate the broadcast to each officer's radio
+  Instead of an immediate grand proposal that would be difficult to implement (money, manpower, and inertia), a modest proposal to get initiative rolling and be useful could be as follows:  no large scale equipment purchases needed, use the existing radio;  have an auto-generated one or two sentence statement generated for each shift for each district that auto-calculates a net plus or minus crime day based upon all the cycles (and temperature) present on any given day, supplement streets or blocks or crime types that are relevant to a given district; and robo-speech generate the broadcast to each officer's radio
 
   The officers may get annoyed by a short but everyday update synopsis put out by the research department back at headquarters;  so employ some worldly wisdom to deliver it.  
 
