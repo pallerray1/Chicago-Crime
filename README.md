@@ -23,7 +23,7 @@ Overall cycles or trends identified, together with each one's 'period':
   4) The combined day grouping of Friday/Saturday/Sunday has a crime rate cycle of, over the course of a year, 4 peaks and 4 troughs. It does not punch at it's own weight --- it is either additive or subtractive depending on where it is in its own cycle.
   5) The violent crimes of homicide, battery, and robbery have greater representation in the Friday/Saturday/Sunday groupings.
   6) Deceptive practices mostly takes place at two rocket-launch spikes, namely, around 8 AM and then 12 Noon.
-  7) Motor Vehicle Theft really goes to work from 6 PM to 10 PM 
+  7) Motor Vehicle Theft really goes to work from 6 PM to 10 PM
   8) A very weak (but identifiable) trend of the first and third weeks of the month being heavier than of the second and fourth weeks.
 
   At the police district level, information can be gleaned that could be useful to each individual district. Streets and crime types, for instance.  Too many permutations to be mentioned here.
@@ -73,6 +73,10 @@ Of deployments grandiose and more modest:
 ** Data **
 
 [City of Chicago Data Portal: Crimes 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+[CPD Beat Locations](data/CPD_beat_locations.csv)
+[CPD District Names](data/CPD_districts_by_neighborhood.csv)
+[Full Moon Phases](data/moons_file.csv)
+[Weather - US NOAA](data/noaa_weather_us.csv)
 
 ---
 ** Presentation **
