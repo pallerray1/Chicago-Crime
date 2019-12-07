@@ -17,4 +17,8 @@ In one sentence, the overall crime rate has shifted slightly down during the sev
 Overall cycles or trends identified, together with each one's 'period':
 
   1) Yearly cycle: troughs in February, peaks in August, returning to trough in February
-  
+  2) Daily cycle:  troughs at 5 to 6 AM, peaks at roughly 6 to 7 PM, a noticeable spike from cycle at around Noon
+  3) Daily cycle by type:  Violent crimes of homicide, battery, and robbery follow the overall daily crime cycle but have a phase shift
+        that places their peaks and valleys around 2 to 3 hours after those of the overall crimes daily cycles
+  4) The combined day grouping of Friday/Saturday/Sunday has a crime rate cycle of, over the course of a year, 4 peaks and 4 troughs. It does not punch at it's own weight --- it is either additive or subtractive depending on where it is in its own cycle.
+  5) A very weak (but identifiable) trend of the first and third weeks of the month being heavier than of the second and fourth weeks.
