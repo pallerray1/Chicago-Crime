@@ -12,7 +12,7 @@ To gather and use data to make informed decisions, guide behavior, and improve o
 
 The largest overarching theme that was discovered, and gives rise to good confidence that the results could be employed to individuals' and the City's benefit,  was the cyclic nature of criminal acts.  When combined with knowledge of (a) different types of crimes having different likelihoods at various hours of the day and (b) each local district's distributions of offense types,  creative ideas both grandiose and more modest can be implemented.
 
-In one sentence, the overall crime rate has shifted slightly down during the seven year interval studied November 2012 to Nivember 2019, with the majority in the first two years and a more steady state since.
+In one sentence, the overall crime rate has shifted slightly down during the seven year interval studied November 2012 to November 2019, with the majority in the first two years and a more steady state since.
 
 Overall cycles or trends identified, together with each one's 'period':
 
@@ -71,7 +71,7 @@ Of deployments grandiose and more modest:
 ---
 ** Data **
 
-[City of Chicago Data Portal: Crimes 2001 tp Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+[City of Chicago Data Portal: Crimes 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
 
 ---
 ** Presentation **
