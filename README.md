@@ -80,4 +80,4 @@ Of deployments grandiose and more modest:
 ---
 ** Presentation **
 
-[Slide Deck: Chicago Crime 2019 - Intent to Inform](Chicago_Crime.pdf)
+* [Slide Deck: Chicago Crime 2019 - Intent to Inform](Chicago_Crime.pdf)
