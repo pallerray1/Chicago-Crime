@@ -8,4 +8,4 @@ To distill information that would be of utility and benefit to those individuals
 
 ## Executive Summary
 
-To gather and use data to make informed decisions, guide behavior, and improve outcomes  --  for both individuals and institutions  --   is the raison d'etre for data science. 
+To gather and use data to make informed decisions, guide behavior, and improve outcomes  --  whether for an individual or an institution -- is the raison d'etre for data science.  
