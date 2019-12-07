@@ -4,4 +4,5 @@
 
 ##  Problem statement
 
-To distill information that would be of utility and benefit to those individuals and organizations that have as their intent the desire and willingness to improve life in the City of Chicago.
+To distill information that would be of utility and benefit to those individuals and organizations that have as their intent the
+desire and willingness to improve life in the City of Chicago.
