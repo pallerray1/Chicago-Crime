@@ -73,8 +73,8 @@ Of deployments grandiose and more modest:
 ** Data **
 
 [City of Chicago Data Portal: Crimes 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
-
 [Full Moon Phases](data/moons_file.csv)
+
 [Weather - US NOAA](data/noaa_weather_us.csv)
 
 ---
