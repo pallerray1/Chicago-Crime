@@ -44,8 +44,10 @@ Overall cycles or trends identified, together with each one's 'period':
 
 ---
 ** Data **
+
 [City of Chicago Data Portal: Crimes 2001 tp Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
 
 ---
 ** Presentation **
+
 [Slide Deck: Chicago Crime 2019 - Intent to Inform](Chicago_Crime.pdf)
