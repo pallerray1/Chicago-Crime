@@ -33,3 +33,8 @@ Overall cycles or trends identified, together with each one's 'period':
 
   ---
   [Analysis: Day of Week including Friday/Saturday/Sunday Groupings](code/analysis_1_day_of_week_especially_fri_sat_sun.ipynb)
+  [Analysis: Hours of the Day](code/analysis_2_hours_of_the_day.ipynb)
+  [Analysis: Days of the Month,  Weeks of the Month](code/analysis_3_days_of_the_month_weeks_of_the_month.ipynb)
+  [Analysis: Daily, Monthly, & Friday/Saturday/Sunday Monthly](code/analysis_4_daily_monthly_fri_sat_sun_crime_rates.ipynb)
+  [Analysis: For the Districts](code/analysis_5_for_the_districts.ipynb)
+  [Full Moon Hypothesis]
