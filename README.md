@@ -32,6 +32,7 @@ Overall cycles or trends identified, together with each one's 'period':
   ## Notebooks
 
   ---
+  ** Code **
   * [Analysis: Day of Week including Friday/Saturday/Sunday Groupings](code/analysis_1_day_of_week_especially_fri_sat_sun.ipynb)
   * [Analysis: Hours of the Day](code/analysis_2_hours_of_the_day.ipynb)
   * [Analysis: Days of the Month,  Weeks of the Month](code/analysis_3_days_of_the_month_weeks_of_the_month.ipynb)
@@ -41,4 +42,10 @@ Overall cycles or trends identified, together with each one's 'period':
   * [High Summer Temperature Hypothesis](code/high_summer_temperature_hypothesis_test.ipynb)
   * [Preliminary Read In/Prep Data](code/prelim_read_prep_data.ipynb)
 
-  
+---
+** Data **
+[City of Chicago Data Portal: Crimes 2001 tp Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+
+---
+** Presentation **
+[Slide Deck: Chicago Crime 2019 - Intent to Inform](Chicago_Crime.pdf)
